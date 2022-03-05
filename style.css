@@ -58,6 +58,7 @@ body{
     left: 0;
     z-index: 2;
     will-change: scale, opacity;
+    pointer-events: none;
 }
 .content {
     position: relative;
