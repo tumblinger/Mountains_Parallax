@@ -28,6 +28,7 @@ body{
 .parallax {
     position: relative;
     height: 100%;
+    pointer-events: none;
 }
 .parallax__mountain {
     position: fixed;
